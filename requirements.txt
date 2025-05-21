@@ -1,0 +1,6 @@
+jupyter
+notebook
+sentence-transformers
+openai
+numpy
+pandas
